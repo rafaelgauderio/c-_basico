@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+int main1()
 {
 	setlocale(LC_ALL, "portuguese");
 	int Numero = 17;
