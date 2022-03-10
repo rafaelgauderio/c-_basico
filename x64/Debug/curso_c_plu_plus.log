@@ -1,2 +1,4 @@
-﻿  Ponteiro06.cpp
+﻿  Referencia01.cpp
+C:\Users\rafael\Desktop\tads\c++\curso_c_plu_plus\curso_c_plu_plus\Referencia01.cpp(6,15): warning C4129: 'D': sequência de escape de caractere não reconhecida
+C:\Users\rafael\Desktop\tads\c++\curso_c_plu_plus\curso_c_plu_plus\Referencia01.cpp(7,15): warning C4129: 'N': sequência de escape de caractere não reconhecida
   curso_c_plu_plus.vcxproj -> C:\Users\rafael\Desktop\tads\c++\curso_c_plu_plus\x64\Debug\curso_c_plu_plus.exe
