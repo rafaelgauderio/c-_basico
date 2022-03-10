@@ -15,12 +15,18 @@ int main()
 	bool flag=true;
 	double phi = 3.1415;
 	string name = "Rafael";
+	//Ponteiro do tipo void é um tipo especial de ponteiro que pode apontar para qualquer tipo de dados
 	//ponteiro do tipo void é útil quando você quer retornar algo de alguma função e atribuir a um ponteiro.
 	// sem saber qual tipo de dado essa função vai retornar 
+	// Ponteiro voiz não pode ser desreferenciado diretamene
+	// Ponteiro deve ser convertido explicitamente através de um casting antes de ser desreferenciado
 	void* genericPointer;
-	genericPointer = &letra;	
-	//depois faz um casting para imprimir o tipo de dado
-	//*(cast para tipo desejado)NomePonteiroGenerico
+	genericPointer = &letra;		
+	//*(cast para tipo desejado*)NomePonteiroGenerico
+	//* antes do parentes é o desreferenciamento, (*tipoDeVariável)
+	//(int*) = ponteiro do tipo int. Ponteiro capaz de apontar para um int
+	//capacidade de apontar = habilidade de saber quantos bytes possui a variável que o ponteiro aponta, lendo assim a região de memória da variável apontada
+
 	std::cout << "Valor de letra via ponteiro = " << *(char*)genericPointer << "\n";
 	genericPointer = &numero;
 	std::cout << "\nValor de número via ponteiro: " << *(int*)genericPointer << "\n";
