@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int main4() {
 
 	setlocale(LC_ALL, "portuguese");
 	//Atribuindo um ponteiro para outro ponteiro	

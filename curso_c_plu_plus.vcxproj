@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Ponteiro05.cpp" />
     <ClCompile Include="Ponteiro04.cpp" />
     <ClCompile Include="Ponteiro03.cpp" />
     <ClCompile Include="Ponteiro02.cpp" />
