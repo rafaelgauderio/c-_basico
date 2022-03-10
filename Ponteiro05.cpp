@@ -6,7 +6,7 @@ using std::cout; using std::cin;
 using std::endl; using std::string;
 
 
-int main()
+int main5()
 {
 	setlocale(LC_ALL, "portuguese");
 
