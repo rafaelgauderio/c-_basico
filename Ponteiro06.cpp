@@ -22,11 +22,6 @@ int main() {
 	std::cout << "\nValor do segundo ponteiro (endereço que ele armazena), que dever IGUAL ao do primeiro: " << pointer << "\n";
 	std::cout << "\nValor do endereço de memória do segundo ponteiro, que deve ser DIFERENTE do primeiro: " << &pointer2 << "\n\n";
 
-
-
-
-
-
 	return 0;
 
 }
