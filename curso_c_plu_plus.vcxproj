@@ -146,6 +146,7 @@
     <ClCompile Include="Ponteiro06.cpp" />
     <ClCompile Include="Ponteiro01.cpp" />
     <ClCompile Include="Referencia01.cpp" />
+    <ClCompile Include="Referencia02.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

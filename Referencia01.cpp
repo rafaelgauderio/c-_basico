@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+int mainr1()
 {
 	setlocale(LC_ALL, "portuguese");
 	std::cout << "\Declarar uma referência significa um apelido, rótulo, atalho, alias." << "\n";

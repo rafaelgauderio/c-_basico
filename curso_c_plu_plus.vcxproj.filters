@@ -36,5 +36,8 @@
     <ClCompile Include="Referencia01.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
+    <ClCompile Include="Referencia02.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
