@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int mainref02() {
 
 	setlocale(LC_ALL, "portuguese");
 
