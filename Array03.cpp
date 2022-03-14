@@ -3,10 +3,9 @@
 #include <windows.h>
 
 
-int main()
+int mainArray03()
 {
     setlocale(LC_ALL, "portuguese");
-	setlocale(LC_ALL, "portuguese");
 	int elementos;
 	int minimo, maximo;
 	int vetor[20];
