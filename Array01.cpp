@@ -4,7 +4,7 @@
 #include <iomanip>
 
 
-int main()
+int mainArray01()
 {
 	setlocale(LC_ALL, "portuguese");
 	
