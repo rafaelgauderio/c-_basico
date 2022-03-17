@@ -1,7 +1,7 @@
 #include <iostream>
 #include <locale.h>
 
-int main() {
+int mainMatrix01() {
 
 	int Matrix[10][10];
 
