@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Array01.cpp" />
     <ClCompile Include="Array06.cpp" />
+    <ClCompile Include="Matrix01.cpp" />
     <ClCompile Include="Ponteiro05.cpp" />
     <ClCompile Include="Ponteiro04.cpp" />
     <ClCompile Include="Ponteiro03.cpp" />

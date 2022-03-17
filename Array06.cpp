@@ -11,7 +11,7 @@ void ThirdVector(int* Array, int Size);
 int* ReverseVector(int* Array, int Size); //além de receber um ponteiro, retorna um ponteiro
 void DisplayVector(int* Array, int Size);
 
-int main()
+int mainArray06()
 {
 	setlocale(LC_ALL, "PORTUGUESE");
 
