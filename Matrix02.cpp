@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-int main()
+int mainMatrix02()
 {
 	int Numeros[]{ 10,20,30,40,50 };
 
