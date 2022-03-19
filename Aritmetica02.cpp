@@ -8,7 +8,7 @@ using namespace std;
 void printVector(double Array[] , int Size);
 void changeVector(double Array[] , int Size);
 
-int main()
+int mainAritmetica02()
 {
     setlocale(LC_ALL,"Portuguese");
 
