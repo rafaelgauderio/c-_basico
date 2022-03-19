@@ -8,7 +8,7 @@ using namespace std;
 void printVector(int Array[] , int Size);
 void changeVector(int Array[] , int Size);
 
-int main()
+int mainAritmetica01()
 {
     setlocale(LC_ALL,"Portuguese");
 
@@ -20,7 +20,7 @@ int main()
      cout << "\nVetor ORIGINAL\n";
     printVector(Vector,Size);
     //vai alterar o vetor original mesmo não tendo passado os parametros por referência ou ponteiros
-    //Vector = %Vector[0]
+    //Vector = &Vector[0]
     changeVector(Vector,Size);
     cout << "\nVetor ALTERADO\n";
     printVector(Vector,Size);
