@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int main()
+int mainArtitmetica03()
 {
 
     setlocale(LC_ALL,"Portuguese");
